@@ -6,7 +6,7 @@ setInterval(function() {
 
 function getSong() {
     jQuery.ajax({
-        url: "https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=ferixinder&api_key=ccdf053dcd5b4979d4f7d45fcb1af136&format=json",
+        url: "https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=[YOUR_LASTFM_USERNAME]&api_key=[YOUR_API_KEY]&format=json",
         type: "GET",
         dataType: "json",
         async: false,
