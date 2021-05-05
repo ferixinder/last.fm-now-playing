@@ -39,6 +39,6 @@ function showSpotifyWidget(lastSong) {
         $("#nowLink").attr("href", lastSong.url);
         $("#nowWidgetIMG").attr("src", lastSong.image[3]["#text"]);
         $('#nowSong').text(lastSongName)
-        $('#nowAlbum').text(lastSongAlbum + "(Şu anda dinlemiyor)");
+        $('#nowAlbum').text(lastSongAlbum + "(Not listening now)");
     }
 }
