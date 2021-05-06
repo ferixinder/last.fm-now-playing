@@ -7,4 +7,4 @@ Replace [YOUR_API_KEY] and [YOUR_USERNAME] from the song.js file.
 ```
 #
 ## Screenshot
-![](https://www.ferixinder.com/img/7iWN8zpwXU9HDUF68.png)
+![](https://www.ferixinder.com/img/h3JNUVQY8DnVgWkyF.png)
